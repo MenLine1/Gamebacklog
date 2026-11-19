@@ -1,0 +1,10 @@
+node_modules
+.next
+.git
+.gitignore
+.env*
+*.log
+coverage
+out
+tsconfig.tsbuildinfo
+k8s/mongodb-secret.env

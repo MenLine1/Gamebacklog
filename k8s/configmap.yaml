@@ -1,0 +1,7 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: gamebacklog-config
+  namespace: gamebacklog
+data:
+  MONGODB_DB: gamebacklog

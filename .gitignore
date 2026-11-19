@@ -1,0 +1,9 @@
+node_modules/
+.next/
+out/
+*.tsbuildinfo
+tmp/
+output/docs/
+.env*
+!.env.example
+k8s/mongodb-secret.env
