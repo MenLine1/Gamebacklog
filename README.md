@@ -251,6 +251,6 @@ Zastąp `TWOJ_LOGIN` swoim loginem i wklej link repozytorium do sprawozdania. Ni
 
 ## Dokumenty projektu
 
-- [Sprawozdanie z realizacji testów i wdrożenia](output/reports/Sprawozdanie_GameBacklog.pdf)
+- [Sprawozdanie z realizacji testów i wdrożenia](Sprawozdanie_GameBacklog.pdf)
 
 Sprawozdanie jest przygotowane w edytowalnym formacie Word. Zawiera aktualne wyniki, polecenia i miejsca na zrzuty. Przed oddaniem wstaw wskazane obrazy terminala i interfejsu oraz uzupełnij link do utworzonego repozytorium GitHub.
